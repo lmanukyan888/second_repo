@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
-
+*.db
+target/
+bin/
 # Log file
 *.log
 
